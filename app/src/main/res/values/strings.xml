@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TamatemPlus WebView Demo</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="close">Close\n</string>
+    <string name="refresh">Refresh</string>
+</resources>
